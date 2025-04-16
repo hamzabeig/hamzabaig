@@ -52,15 +52,7 @@
 <!-- <br /> -->
 <hr />
 
-<h2 align="center" >⚒️ Languages-Frameworks-Tools ⚒️</h2>
-<br /> 
-<div  align="center" >
-    <img src="https://skillicons.dev/icons?i=html,css,bootstrap,sass,javascript,react,typescript,nextjs,express,firebase," />
-    <img src="https://skillicons.dev/icons?i=mongodb,github,figma,tailwind,git,nodejs,python,java," />
-    <img src="https://skillicons.dev/icons?i=firebase,cpp,photoshop,illustrator,vscode,postman,insomnia," />
-</div>
- 
-<hr/>
+
 
 <h2 align="center">🤝🏻 Connect with me 🤝🏻</h2>
 <p align="center">
